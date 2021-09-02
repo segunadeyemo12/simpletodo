@@ -2,9 +2,9 @@
 
 **Simply Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Farouk Ganiyu Adewumi**
+Submitted by: **Olusegun Joseph Adeyemo**
 
-Time spent: **6** hours spent in total
+Time spent: *7** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2021] [Farouk Ganiyu Adewumi]
+    Copyright [2021] [Olusegun Joseph Adeyemo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
